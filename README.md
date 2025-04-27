@@ -1,4 +1,4 @@
-# vc_rotar_imagen
+# Rotación de imágenes
 
 Repositorio de apoyo para el ejercicio de rotación de imágenes en el curso de Visión por Computador.
 
