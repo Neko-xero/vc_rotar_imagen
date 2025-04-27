@@ -1,0 +1,1 @@
+# vc_rotar_imagen
